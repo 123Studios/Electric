@@ -1,7 +1,7 @@
-# Electric Obfuscator
+# ⚡Electric (Protector)⚡
 <p>Powerful obfuscator for enterprise to protect their apps from cracked. </p>
 
 # No estimated time till release.
 
 # Protections
-<p>
+<p></p>
