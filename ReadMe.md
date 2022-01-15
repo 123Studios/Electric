@@ -1,6 +1,6 @@
 # ⚡Electric (Protector)⚡
 <p>Powerful obfuscator for enterprise to protect their apps from cracked. </p>
-
+<p>(Note: This software may not be developed and is still just a thought</p>
 # No estimated time till release.
 
 # Protections
